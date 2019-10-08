@@ -1,4 +1,4 @@
-name: Drop Party
+name: DropParty
 main: dropparty\DropParty
 version: 1.0.0
 description: "Automatic Drop party for PMMP"
